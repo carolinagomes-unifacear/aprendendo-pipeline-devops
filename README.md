@@ -49,7 +49,7 @@ Para não alterar o projeto original do professor, você criará a sua própria 
 Vamos ver a esteira DevOps funcionando ao bloquear um código que quebra a aplicação.
 
 1. Na barra lateral esquerda do seu Codespaces, abra o arquivo `index.html`.
-2. Vá até a linha **106** do arquivo e altere o símbolo do botão de soma de `+` para `X`:
+2. Vá até a linha **125** do arquivo e altere o símbolo do botão de soma de `+` para `X`:
    ```html
    <!-- Mude de + para X -->
    <button class="operator" onclick="adicionar('X')">X</button>
